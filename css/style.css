@@ -1,4 +1,17 @@
-html, body {
-  height: 100%;
-  width: 100%;
+/* Created by: Evan Cagiannos
+* Created on: Sep 2020
+* This file contains the CSS for index.html
+*/
+
+.mdl-layout__content {
+  padding-left: 10pt;
+  padding-right: 10pt;
+  padding-top: 10pt;
+}
+
+p {
+  color: black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  padding-top: 5pt;
 }
